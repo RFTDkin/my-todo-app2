@@ -1,0 +1,10 @@
+# フォーマット：パターン  オーナー（GitHubユーザー／チーム）
+
+# デフォルト：全ファイルは自分
+*  @RFTDkin
+
+# .github/workflows の変更はCI担当（この授業では自分でOK）
+/.github/workflows/  @RFTDkin
+
+# README/ドキュメント
+*.md  @RFTDkin
